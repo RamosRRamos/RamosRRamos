@@ -17,7 +17,7 @@ I'm a Technology Leader. Let's Connect. Reach out to me through my contact infor
 </details>
 
 <details>
-  <summary>About me 🫣</summary>
+  <summary>About me 💭</summary>
   <h2 align="center">About this Account</h2>
   <p align="center">
     <a href="github.com/RamosRRamos" target="_blank">
@@ -70,4 +70,4 @@ I'm a Technology Leader. Let's Connect. Reach out to me through my contact infor
   <br>
   <h2 align="center">Latest Contribution</h2>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RamosRRamos&theme=github-compact&hide_border=true">
+    <img alt="Wesley's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RamosRRamos&theme=github-compact&hide_border=true">
