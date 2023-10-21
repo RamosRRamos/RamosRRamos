@@ -3,8 +3,6 @@
 ## Hello, I'm Wesley 👋
 I'm a Technology Leader. Let's Connect. Reach out to me through my contact information.
 
-![snake](https://github.com/RamosRRamos/RamosRRamos/blob/main/resources/img/grid-snake.svg)
-
 <details>
   <summary>Contact Me ☎️</summary>
   <h2 align="center">You can reach me by:</h2>
