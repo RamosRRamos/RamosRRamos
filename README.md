@@ -27,14 +27,7 @@ I'm a Technology Leader. Let's Connect. Reach out to me through my contact infor
       <img align="center" src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2FRamosRRamos.github.io%2FRamosRRamos%2F" height="25" alt "website">
     </a>
   </p>
-  <p align="center">
-    <a href="https://www.codefactor.io/repository/github/RamosRRamos/RamosRRamos/overview/main">
-      <img align="center" src="https://www.codefactor.io/repository/github/RamosRRamos/RamosRRamos/badge/main" height="25" alt="CodeFactor">
-    </a>
-    <a href="github.com/RamosRRamos" target="_blank">
-      <img align="center" src="https://github.com/RamosRRamos/RamosRRamos/actions/workflows/pages/pages-build-deployment/badge.svg" height="25" alt="page built">
-    </a>
-  </p> 
+  
 </details>
 
 <details>
