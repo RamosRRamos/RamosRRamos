@@ -74,7 +74,7 @@ Here is a summary of my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://avatars.githubusercontent.com/u/83834041?s=200&v=4"/>](https://rocketseat.com.br/)
 
-**CEO** \
+**FOUNDER** \
 [**WRL-CODE**](https://wrlcode.com/)  \
 Featured Clients: `Inbotix`, `Date-Solutions`, `Vista-Livre`
 
@@ -90,7 +90,7 @@ Featured Clients: `Serasa`, `BTG-Pactual`, `Estácio`, `XP-Investimentos`, `Acce
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://github.com/RamosRRamos/RamosRRamos/blob/main/whyIA.PNG"/>](https://nubank.com.br/)
 
-**Software Engineer (Sênior)** \
+**Software Engineer (SR)** \
 [**WhyIA**](https://whyia.com/) • Full-Time \
 Featured Clients: `IBM`, `Google`, `Banco do Brasil`, `Caixa Econômica Federal`
 
@@ -98,7 +98,7 @@ Featured Clients: `IBM`, `Google`, `Banco do Brasil`, `Caixa Econômica Federal`
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/D4D0BAQG-o5sxYUkL4A/company-logo_200_200/0/1680724163470/rocha_calderon_e_advogados_associados_logo?e=1706745600&v=beta&t=S_QmH9hMpzFQ9ZQGzaV2Ui9Efv22aXdwB1pO-T8JubA"/>](https://nubank.com.br/)
 
-**Back End Developer (Júnior)** \
+**Back End Developer (JR)** \
 [**Rocha Calderon Advogados Associados**](https://rochacalderon.com.br/) • Full-Time \
 Featured Clients: `Banco do Brasil`, `Santander`, `Caixa Econômica Federal`
 
