@@ -74,7 +74,7 @@ Here is a summary of my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://avatars.githubusercontent.com/u/83834041?s=200&v=4"/>](https://rocketseat.com.br/)
 
-**FOUNDER** \
+**Founder** \
 [**WRL-CODE**](https://wrlcode.com/)  \
 Featured Clients: `Inbotix`, `Date-Solutions`, `Vista-Livre`
 
