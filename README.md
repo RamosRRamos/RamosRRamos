@@ -9,10 +9,7 @@ I'm a Technology Leader. Let's Connect. Reach out to me through my contact infor
   <p align="center">
     <a href="https://www.linkedin.com/in/wr-rek/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
-    </a>
-    <a href="mailto:wesley.rl1997@gmail.com" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30">
-    </a>
+    </a>    
   </p>
 </details>
 
