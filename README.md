@@ -70,36 +70,4 @@ I'm a Technology Leader. Let's Connect. Reach out to me through my contact infor
 
 ### Work Experience
 
-Here is a summary of my most recent work experience:
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://avatars.githubusercontent.com/u/83834041?s=200&v=4"/>](https://rocketseat.com.br/)
-
-**Founder** \
-[**WRL-CODE**](https://wrlcode.com/)  \
-Featured Clients: `Inbotix`, `Date-Solutions`, `Vista-Livre`
-
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGGrcBRwTQn_g/company-logo_100_100/0/1618314821357/fbrica_de_vendas_fv_logo?e=1706745600&v=beta&t=l7gDv5Z3lzAfidbtMkFB4YAmfy_XpTbWAz3hs7UMQhw"/>](https://www.spacex.com/)
-
-**CIO** \
-[**Inbotix**](https://www.inbotix.com/)  \
-Featured Clients: `Serasa`, `BTG-Pactual`, `Estácio`, `XP-Investimentos`, `Accesstage`, `Itaú`
-
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://github.com/RamosRRamos/RamosRRamos/blob/main/whyIA.PNG"/>](https://nubank.com.br/)
-
-**Software Engineer (SR)** \
-[**WhyIA**](https://whyia.com/) • Full-Time \
-Featured Clients: `IBM`, `Google`, `Banco do Brasil`, `Caixa Econômica Federal`
-
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/D4D0BAQG-o5sxYUkL4A/company-logo_200_200/0/1680724163470/rocha_calderon_e_advogados_associados_logo?e=1706745600&v=beta&t=S_QmH9hMpzFQ9ZQGzaV2Ui9Efv22aXdwB1pO-T8JubA"/>](https://nubank.com.br/)
-
-**Back End Developer (JR)** \
-[**Rocha Calderon Advogados Associados**](https://rochacalderon.com.br/) • Full-Time \
-Featured Clients: `Banco do Brasil`, `Santander`, `Caixa Econômica Federal`
-
 Please find me on [LinkedIn](https://www.linkedin.com/in/wr-rek/) for a more detailed description of my work experience, education, and certifications.
