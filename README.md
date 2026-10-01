@@ -1,6 +1,6 @@
 # Hi, I'm Wesley 👋
 
-CTO and co-founder at **Comunix**. ~12 years building software, from engineer to leading teams and platforms.
+CTO at **Comunix**. ~12 years building software, from engineer to leading teams and platforms.
 Based in São Paulo · I work in Portuguese and English.
 
 ### What I do
